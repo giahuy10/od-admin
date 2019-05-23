@@ -1,0 +1,31 @@
+{
+  "name": "lotteod-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "cors": "^2.8.5",
+    "express": "^4.16.4",
+    "image-clipper": "^0.4.4",
+    "image-size": "^0.7.3",
+    "jimp": "^0.6.1",
+    "jsonwebtoken": "^8.5.1",
+    "moment": "^2.24.0",
+    "mongoose": "^5.4.19",
+    "mongoose-auto-increment": "^5.0.1",
+    "multer": "^1.4.1",
+    "mysql2": "^1.6.5",
+    "password-hash": "^1.2.2",
+    "sequelize": "^5.2.12",
+    "slug": "^1.1.0",
+    "socket.io": "^2.2.0",
+    "string.prototype.startswith": "^0.2.0"
+  }
+}
